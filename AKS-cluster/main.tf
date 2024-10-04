@@ -1,10 +1,10 @@
 # Configure the Azure Provider
 provider "azurerm" {
   features {}
- subscription_id = "82c579f8-0ab8-43ec-8c87-eca2d5f2c821"
-  tenant_id       = "f5f02767-508e-4b78-bc05-2b16c8a081a1"
-  client_id     = "d42b3bc0-c31c-49e4-bcd7-93285a4f4977"
-  client_secret = "fa88Q~sbMdgq1NNqN.0jTgL.QQIV4IwLExhZFcc4"
+ subscription_id = ""
+  tenant_id       = ""
+  client_id     = ""
+  client_secret = ""
 
 }
 
